@@ -35,7 +35,7 @@ See `examples/lookup.py`.
 3. Requested candidate slugs on `mdpi-res.com`.
 4. A slug counts as verified when the CDN returns the article. Where the XML was returned, the slug was read from `<journal-id journal-id-type="publisher-id">`.
 
-Result: 550 of 551 DOI codes verified.
+Result: 551 of 551 DOI codes verified.
 
 ## Known gaps
 
@@ -64,3 +64,8 @@ Data (`*.json`, `*.csv`) is CC0 1.0. Code is MIT.
 - 验证日期 2026-10-21，551 个期刊中验证通过 550 个。
 - 本项目与 MDPI 无关，请遵守 MDPI 的使用条款并控制请求频率。
 - 数据采用 CC0，代码采用 MIT。
+
+
+## Note: hyphenated slug
+
+High-Throughput (`ht`) uses the hyphenated slug `high-throughput`. Lineage: Microarrays (`microarrays`, vols 1-5) -> High-Throughput (`high-throughput`, vols 6-9) -> BioTech (`biotech`, vol 10+). 高通量期刊的代号带连字符：`high-throughput`。

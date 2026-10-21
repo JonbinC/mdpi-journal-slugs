@@ -2586,14 +2586,14 @@
   },
   {
     "doi_code": "ht",
-    "slug": "ht",
+    "slug": "high-throughput",
     "journal_title": "High-Throughput",
     "issn": "",
     "eissn": "2571-5135",
     "other_issns": "",
-    "verified": false,
+    "verified": true,
     "example_doi": "10.3390/ht9030017",
-    "note": "Ceased with Vol 9 Issue 3 (2020); succeeded by BioTech (doi_code biotech, from Vol 10). High-Throughput files are not on mdpi-res.com under ht or biotech; use Europe PMC."
+    "note": "Slug is hyphenated 'high-throughput' (CDN path /d_attachment/high-throughput/high-throughput-{vol:02d}-{art:05d}/...). Volumes 6-9; continues Microarrays (vols 1-5, slug 'microarrays'); succeeded by BioTech (from vol 10, slug 'biotech'). Verified high-throughput-08-00006 and -09-00016."
   },
   {
     "doi_code": "humans",

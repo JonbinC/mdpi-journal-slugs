@@ -234,7 +234,7 @@ higheredu,higheredu,Trends in Higher Education,,2813-4346,,True,10.3390/highered
 histories,histories,Histories,,2409-9252,,True,10.3390/histories5040048,
 horticulturae,horticulturae,Horticulturae,,2311-7524,,True,10.3390/horticulturae11101163,
 hospitals,hospitals,Hospitals,,2813-4524,,True,10.3390/hospitals2030024,
-ht,ht,High-Throughput,,2571-5135,,False,10.3390/ht9030017,"Ceased with Vol 9 Issue 3 (2020); succeeded by BioTech (doi_code biotech, from Vol 10). High-Throughput files are not on mdpi-res.com under ht or biotech; use Europe PMC."
+ht,high-throughput,High-Throughput,,2571-5135,,True,10.3390/ht9030017,"Slug is hyphenated 'high-throughput' (CDN path /d_attachment/high-throughput/high-throughput-{vol:02d}-{art:05d}/...). Volumes 6-9; continues Microarrays (vols 1-5, slug 'microarrays'); succeeded by BioTech (from vol 10, slug 'biotech'). Verified high-throughput-08-00006 and -09-00016."
 humans,humans,Humans,,2673-9461,,True,10.3390/humans5030024,
 hydrobiology,hydrobiology,Hydrobiology,,2673-9917,,True,10.3390/hydrobiology4040025,
 hydrogen,hydrogen,Hydrogen,,2673-4141,,True,10.3390/hydrogen6040075,
