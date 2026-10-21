@@ -2593,7 +2593,7 @@
     "other_issns": "",
     "verified": false,
     "example_doi": "10.3390/ht9030017",
-    "note": "not on CDN; use Europe PMC (journal ceased ~2020)"
+    "note": "Ceased with Vol 9 Issue 3 (2020); succeeded by BioTech (doi_code biotech, from Vol 10). High-Throughput files are not on mdpi-res.com under ht or biotech; use Europe PMC."
   },
   {
     "doi_code": "humans",
