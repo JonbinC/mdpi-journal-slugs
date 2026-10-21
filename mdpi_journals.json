@@ -2080,14 +2080,14 @@
  },
  {
   "doi_code": "fossils",
-  "slug": "",
+  "slug": "fossils",
   "journal_title": "Fossil Studies",
   "issn": "",
   "eissn": "2813-6284",
   "other_issns": "",
-  "verified": false,
+  "verified": true,
   "example_doi": "10.3390/fossils3040014",
-  "note": "CDN 404 for tried slugs (article may be too new)"
+  "note": "newest articles may not be on CDN yet"
  },
  {
   "doi_code": "foundations",
@@ -2593,7 +2593,7 @@
   "other_issns": "",
   "verified": false,
   "example_doi": "10.3390/ht9030017",
-  "note": "CDN 404 for tried slugs (article may be too new)"
+  "note": "not on CDN; use Europe PMC (journal ceased ~2020)"
  },
  {
   "doi_code": "humans",
@@ -3748,7 +3748,7 @@
   "other_issns": "",
   "verified": true,
   "example_doi": "10.3390/m2065",
-  "note": "special filename: molbank-{year}-M{number}"
+  "note": "special filename: molbank-{year}-M{num} (unpadded)"
  },
  {
   "doi_code": "ma",

@@ -188,7 +188,7 @@ fluids,fluids,Fluids,,2311-5521,,True,10.3390/fluids10100258,
 foods,foods,Foods,,2304-8158,,True,10.3390/foods14193399,
 forecast,forecasting,Forecasting,,2571-9394,,True,10.3390/forecast7040054,
 forensicsci,forensicsci,Forensic Sciences,,2673-6756,,True,10.3390/forensicsci5030046,
-fossils,,Fossil Studies,,2813-6284,,False,10.3390/fossils3040014,CDN 404 for tried slugs (article may be too new)
+fossils,fossils,Fossil Studies,,2813-6284,,True,10.3390/fossils3040014,newest articles may not be on CDN yet
 foundations,foundations,Foundations,,2673-9321,,True,10.3390/foundations5040033,
 fractalfract,fractalfract,Fractal and Fractional,,2504-3110,,True,10.3390/fractalfract9100638,
 freshwater,freshwater,Freshwater,,3043-0569,,True,10.3390/freshwater1010002,
@@ -234,7 +234,7 @@ higheredu,higheredu,Trends in Higher Education,,2813-4346,,True,10.3390/highered
 histories,histories,Histories,,2409-9252,,True,10.3390/histories5040048,
 horticulturae,horticulturae,Horticulturae,,2311-7524,,True,10.3390/horticulturae11101163,
 hospitals,hospitals,Hospitals,,2813-4524,,True,10.3390/hospitals2030024,
-ht,,High-Throughput,,2571-5135,,False,10.3390/ht9030017,CDN 404 for tried slugs (article may be too new)
+ht,,High-Throughput,,2571-5135,,False,10.3390/ht9030017,not on CDN; use Europe PMC (journal ceased ~2020)
 humans,humans,Humans,,2673-9461,,True,10.3390/humans5030024,
 hydrobiology,hydrobiology,Hydrobiology,,2673-9917,,True,10.3390/hydrobiology4040025,
 hydrogen,hydrogen,Hydrogen,,2673-4141,,True,10.3390/hydrogen6040075,
@@ -339,7 +339,7 @@ logics,logics,Logics,,2813-0405,,True,10.3390/logics3040012,
 logistics,logistics,Logistics,,2305-6290,,True,10.3390/logistics9040138,
 lubricants,lubricants,Lubricants,,2075-4442,,True,10.3390/lubricants13100434,
 lymphatics,lymphatics,Lymphatics,,2813-3307,,True,10.3390/lymphatics3040031,
-m,molbank,Molbank,,1422-8599,,True,10.3390/m2065,special filename: molbank-{year}-M{number}
+m,molbank,Molbank,,1422-8599,,True,10.3390/m2065,special filename: molbank-{year}-M{num} (unpadded)
 ma,materials,Materials,,1996-1944,,True,10.3390/ma18194563,
 machines,machines,Machines,,2075-1702,,True,10.3390/machines13100893,
 macromol,macromol,Macromol,,2673-6209,,True,10.3390/macromol5040045,
