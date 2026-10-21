@@ -39,7 +39,6 @@ Result: 551 of 551 DOI codes verified.
 
 ## Known gaps
 
-- `ht` (High-Throughput): no CDN files under `ht` or `highthroughput` (vols 1, 5, 8, 9 tested). The journal ceased around 2020, so use Europe PMC instead.
 - `fossils` (Fossil Studies): slug `fossils` is verified on older articles, but the newest ones (e.g. `10.3390/fossils4040029`) are not on the CDN yet.
 - Very new articles may not be on the CDN yet. A 404 does not necessarily mean the slug is wrong.
 - Article numbers of 100000 or more have not been tested.
